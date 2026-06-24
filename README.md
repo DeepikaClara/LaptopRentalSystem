@@ -78,6 +78,9 @@ o	Pending dues
 Improvement:
 •	Show highest dues customer
 ________________________________________
+Problem Set 11 : Include new members to struct
+Use File migration concept to update old data too.
+_____________________________________________
 Skills Covered
 •	Structs (basic → advanced)
 •	File handling
