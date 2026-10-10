@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "customer.h"
+//#include "customer.h"
 
 FILE* file;
 
