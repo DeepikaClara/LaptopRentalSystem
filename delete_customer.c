@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//#include "customer.h"
+#include "customer.h"//header file need to be included in every c file inorder to prevent prototype mismatches and improves maintainability
 
 FILE * temp_file,* cust_file;
 
