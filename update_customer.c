@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-//#include "customer.h"
+#include "customer.h"//header file need to be included in every c file inorder to prevent prototype mismatches and improves maintainability
+
 
 FILE *file;
 int update_file(int customer_id, char customer_name[], char phone_number[], char address[])
