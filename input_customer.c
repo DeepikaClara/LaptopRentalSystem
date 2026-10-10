@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "customer.h"
+//#include "customer.h"
 
 void add_customer()
 {
