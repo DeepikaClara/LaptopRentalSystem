@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "customer.h"
+//#include "customer.h"
 
 FILE * temp_file,* cust_file;
 
