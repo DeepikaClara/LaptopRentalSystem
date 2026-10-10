@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "customer.h"
+//#include "customer.h"
 
 FILE *file;
 int update_file(int customer_id, char customer_name[], char phone_number[], char address[])
